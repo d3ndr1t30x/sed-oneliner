@@ -1,0 +1,1 @@
+sed 's/^/https:\/\//' domains.txt > updated_domains.txt
